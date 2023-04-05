@@ -5,6 +5,9 @@
   "description": "Transform text/code using a variety of methods",
   "icon": "icon.png",
   "author": "Idered",
+  "contributors": [
+    "robertrosman"
+  ],
   "categories": [
     "Developer Tools"
   ],
@@ -213,6 +216,7 @@
     "json-to-go": "github:Idered/json-to-go",
     "json-to-jsdoc": "github:Idered/json-to-jsdoc",
     "json-wasm": "github:Idered/json-wasm",
+    "json5": "^2.2.3",
     "markdown-it": "13.0.1",
     "node-html-markdown": "1.2.0",
     "postcss": "^8.4.16",
