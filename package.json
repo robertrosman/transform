@@ -56,6 +56,13 @@
       "mode": "view"
     },
     {
+      "name": "json-to-js-object",
+      "title": "JSON to JS Object",
+      "subtitle": "Transform",
+      "description": "Transform JSON to JS Object",
+      "mode": "view"
+    },
+    {
       "name": "json-to-big-query",
       "title": "JSON to Big Query Schema",
       "subtitle": "Transform",
